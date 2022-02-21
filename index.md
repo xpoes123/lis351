@@ -1,9 +1,0 @@
-<!DOCTYPE html>
-<html>
-    <head>
-        <title>Page Title</title>
-    </head>
-    <body>
-        <p>Hello World. My name is David Jiang</p>
-    </body>
-</html>
